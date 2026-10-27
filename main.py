@@ -1,7 +1,8 @@
-# ================================
-#  MY SNACK SHOP
-#  File: my-snack-shop.py
-# ================================
+#Code includes 
+#Data Types
+#Number Swapping
+#Comparison operators
+#String operations
 
 
 # PART 1 — TYPES OF DATA
